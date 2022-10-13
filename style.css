@@ -1,0 +1,27 @@
+h1{
+    font-size: 23px;
+    width: 100%;
+    color:floralwhite
+    }
+    
+button{
+    color:"orange";
+    border-radius:30px;
+    width:300px;
+    height:50px;
+}
+.button{
+    background-color:orange;
+    color:white;
+    font-size: larger;
+}
+body{
+    background:url("download.jpeg");
+    background-size: cover;
+}
+#backbutton{
+    background-color:red;
+    border-radius:20px;
+    width:100px;
+    font-size:10px;
+}
